@@ -3,6 +3,8 @@
 
 A website for campers to post their favorite campsites and for other people to be able to make commits about the campsites. Share where you have been so others may enjoy the same places. 
 
+https://i.imgur.com/9PZrfpg.jpg
+
 ## Updates
 
 May 12 2018
@@ -14,6 +16,14 @@ This web app is programed using javascript with express, EJS, Node. It uses a mo
 ### Prerequisites
 
 you will need npm to install the prerequisistes
+
+If you are cloneing this repo directly
+
+```
+  npm install
+```
+
+if you are building from scratch you will need to run these commands.
 
 ```
 npm init                        this will create your package.jason file
