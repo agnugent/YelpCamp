@@ -3,7 +3,7 @@
 
 A website for campers to post their favorite campsites and for other people to be able to make commits about the campsites. Share where you have been so others may enjoy the same places. 
 
-https://i.imgur.com/9PZrfpg.jpg
+![Figure 1-1](https://i.imgur.com/9PZrfpg.jpg "Figure 1-1")
 
 ## Updates
 
